@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Atualmente sou estudante de Desenvolvimento de Sistemas no SENAI de Informática, em São Paulo. Também curso inglês e estou prestes a concluir o ensino médio</p>
+<p align="left">Atualmente sou estudante de Desenvolvimento de Sistemas no SENAI de Informática, em São Paulo. E estou prestes a concluir o ensino médio</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Resolvendo problemas desde 2024<br>🖥️ Aprendendo Desenvolvimento de sistemas <br><br>🥇 Medalista da Universidade UFABC<br></p>
+<p align="left">✨ Resolvendo problemas desde 2024<br>🖥️ Aprendendo Desenvolvimento de sistemas<br><br>🥇 Medalista da Universidade UFABC<br></p>
 
 ###
 
