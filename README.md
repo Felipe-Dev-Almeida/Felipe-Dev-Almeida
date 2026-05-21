@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Resolvendo problemas desde 2024<br>🖥️ Aprendendo Desenvolvimento de sistemas <br>🎯 <br>🥇 Medalista da Universidade UFABC<br></p>
+<p align="left">✨ Resolvendo problemas desde 2024<br>🖥️ Aprendendo Desenvolvimento de sistemas <br> <br>🥇 Medalista da Universidade UFABC<br></p>
 
 ###
 
